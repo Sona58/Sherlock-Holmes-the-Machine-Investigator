@@ -1,0 +1,39 @@
+SuspectId,CaseId,Name,Gender,DominantHand,RationshipWithVictim,Country,State,City,District,Occupation,Company,Arrested From
+1,1,Madhav Gorpade,Male,Right,Friend,India,Maharashtra,Mumbai,Naigaon,Owner,Madhav Sofa Workshop,House
+2,1,Gurudev,Male,Right,None,India,Maharashtra,Mumbai,Naigaon,Worker,Madhav Sofa Workshop,Surrender
+3,1,Ganesh,Male,Right,Victim,India,Maharashtra,Mumbai,Naigaon,Worker,Madhav Sofa Workshop,Killed
+4,2,Wasim Shekh,Male,Right,Noe,India,Ahmedabad,Bapu Nagar,Not Known,Tailor,Not Known,Workshop
+5,2,Sanjay Parmar,Male,Right,Boyfriend's Friend,India,Ahmedabad,Bapu Nagar,Kathlal Village,Not Known,Not Known,Bus
+6,2,Gaurav Singh,Male,Right,Boyfriend,India,Ahmedabad,Bapu Nagar,Not Known,Sales Executive,SIM Company,House
+7,2,Priya Bramhbhatt ,Female,Right,Victim,India,Ahmedabad,Bapu Nagar,Not Known,Not Known,Not Known,Bus
+8,3,Rita Walecha,Female,Right,Victim,India,Maharashtra,Thane,Ulhas Nagar,Housewife,Not Known,Found Killed
+9,3,Sharad Mansukhani,Male,Right,Victim's Husband's Friend,India,Maharashtra,Thane,Ulhas Nagar,Owner,Mansukhani Cloth House,House
+10,3,Sanjay,Male,Right,None,India,Maharashtra,Not Known,Not Known,Contract Killer,Not Known,House
+11,4,Vikram Sabharwal,Male,Right,None,India,West Bengal,Kolkata,Randall Street,Businessman,Not Known,House
+12,4,Mazhar Kamran,Male,Right,None,India,West Bengal,Kolkata,Randall Street,Businessman,Not Known,House
+13,4,Shahid Hussain,Male,Right,None,India,West Bengal,Kolkata,Randall Street,Businessman,Not Known,House
+14,4,Mickey Mehta,Male,Right,None,India,West Bengal,Kolkata,Randall Street,Businessman,Not Known,House
+15,4,Usman Shaikh,Male,Right,None,India,West Bengal,Kolkata,Jadavpur,Businessman,Leather Business,House
+16,4,Parvez Alam,Male,Right,None,India,West Bengal,Kolkata,Kalighat,Businessman,Leather Business,House
+17,4,Javed Shaikh,Male,Right,None,India,West Bengal,Kolkata,Jadavpur,Businessman,Leather Business,House
+18,4,Sadik Mirza,Male,Right,None,India,West Bengal,Kolkata,Boriya,Businessman,Mobile Phone,House
+19,5,Girish Shinde,Male,Right,Husband,India,Maharashtra,Mumbai,Vasai,Driver,Aakash Tour & Travels,House
+20,5,Kavita Shinde,Female,Right,Victim,India,Maharashtra,Mumbai,Vasai,Housewife,Not Known,Dead
+21,6,Sanjay Rane,Male,Right,Nephew's Husband,India,Maharashtra,Dombivili,Satyajit Nagar,Driver,Cool Cab,Guest House
+22,6,Sakshi Rane,Female,Right,Nephew,India,Maharashtra,Dombivili,Satyajit Nagar,Housewife,Not Known,Guest House
+23,6,Javed,Male,Right,None,India,Maharashtra,Dombivili,Satyajit Nagar,Mechanic,Not Known,Guest House
+24,6,Abhishek,Male,Right,None,India,Maharashtra,Dombivili,Satyajit Nagar,Owner,Departmental Store,Guest House
+25,6,Jay,Male,Right,None,India,Maharashtra,Dombivili,Satyajit Nagar,Student,Not Known,Guest House
+26,6,Munna,Male,Right,None,India,Maharashtra,Dombivili,Satyajit Nagar,Autorickshaw Driver,Not Known,House
+27,7,Girish Talwar,Male,Right,None,India,Haryana,Manorgarh,Not Known,Estate Agent,Not Known,Bus
+28,7,Gurveer Saini,Male,Right,None,India,Haryana,Manorgarh,Not Known,Inventory Keeper,Not Known,House
+29,7,Manveer Kaushik,Male,Right,None,India,Haryana,Manorgarh,Not Known,Cable Operator,Not Known,House
+30,7,Vijender Rathi,Male,Right,None,India,Haryana,Manorgarh,Not Known,Cable Assistant,Not Known,House
+31,7,Jasraj Rathi,Male,Right,None,India,Haryana,Manorgarh,Not Known,Cable Assistant,Not Known,House
+32,7,Vikram Satpal,Male,Right,None,India,Haryana,Manorgarh,Not Known,Construction Worker,Not Known,House
+33,7,Harmeet Kumawat,Male,Right,None,India,Haryana,Manorgarh,Not Known,Gambler,Not Known,House
+34,7,Randeep Dahiya,Male,Right,None,India,Haryana,Manorgarh,Not Known,Smuggler,Not Known,House
+35,7,Bhupender Prashar,Male,Right,None,India,Haryana,Manorgarh,Not Known,Businessman,Not Known,House
+36,8,Mahesh,Male,Right,Husband,India,Maharashtra,Nashik,Sinnar Villege,Jobless,Not Known,House
+37,8,Savita,Female,Right,Mother-in-law,India,Maharashtra,Nashik,Sinnar Villege,Housewife,Not Known,House
+38,9,Shyam,Male,Right,Brother-in-law,India,Maharashtra,Mumbai,Dahisar,Swimming Teacher,School,House

@@ -1,0 +1,10 @@
+CaseId,RegisteredYear,RegisteredMonth,RegisteredDate,ActualYear,SolvedYear,Country,State,City,District,Offense,Status
+1,2012,0,0,2008,2012,India,Maharashtra,Mumbai,Naigaon,Murder,Closed
+2,2012,4,27,2012,2012,India,Gujarat,Mansa,Ajol Village,Kidnapping,Closed
+3,2011,11,4,2011,2011,India,Maharashtra,Thane,Ulhas Nagar,Murder,Closed
+4,2012,2,16,2012,2012,India,West Bengal,Kolkata,Ranihat,Sexual Assault,Closed
+5,2012,6,15,2012,2012,India,Maharashtra,Mumbai,Vasai,Suicide,Closed
+6,2012,7,30,2012,2012,India,Maharashtra,Dombivili,Anupam Nagri,Murder,Closed
+7,2014,10,23,2014,2014,India,Haryana,Manorgarh,Not Known,Robbery,Closed
+8,2011,8,16,2011,2011,India,Maharashtra,Nashik,Sinnar Villege,Suicide,Closed
+9,2012,8,20,2012,2012,India,Maharashtra,Mumbai,Dahisar,Murder,Closed

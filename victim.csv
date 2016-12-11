@@ -1,0 +1,13 @@
+VictimId,CaseId,Name,Gender,DominantHand,Spouse,Children,MaritialStatus,Siblings,RankInSibling,MotherName,MotherStatus,FatherName,FatherStatus,Country,State,City,District,Occupation,Company,Servant Name
+1,1,Shrinath Mhapsekar,Male,Right,Kumud Mhapsekar,1,Married,0,1,Not Known,Not Known,Not Known,Dead,India,Maharashtra,Mumbai,Virar,Lendor,Self,None
+2,1,Sunita,Female,Right,Ganesh,0,Married,0,1,Kumud Mhapsekar,Alive,Shrinath Mhapsekar,Alive,India,Maharashtra,Mumbai,Naigaon,Housewife,Self,None
+3,1,Ganesh,Male,Right,Sunita,0,Married,0,1,Not Known,Not Known,Not Known,Dead,India,Maharashtra,Mumbai,Naigaon,Worker,Madhav Sofa Workshop,None
+4,2,Priya Bramhbhatt ,Female,Right,None,0,Single,0,1,Smita Bramhbhatt ,Alive,Devang Bramhbhatt ,Alive,India,Ahemdabad,Bapu Nagar,Not Known,Not Known,Not Known,None
+5,3,Rita Walecha,Female,Right,Mukesh Walecha,2,Married,0,1,Not Known,Alive,Not Known,Not Known,India,Maharashtra,Thane,Ulhas Nagar,Housewife,Not Known,Kavita
+6,4,Rita Gomes,Female,Right,None,2,Divorced,0,1,Martha Gomes,Alive,Not Known,Not Known,India,West Bengal,Kolkata,Ranihat,Jobless,Not Known,None
+7,5,Kavita Shinde,Female,Right,Girish Shinde,2,Married,1,2,Not Known,Alive,Not Known,Alive,India,Maharashtra,Mumbai,Vasai,Housewife,Not Known,None
+8,6,Vijay Jhadav,Male,Right,Sarita Jhadav,1,Married,1,1,Not Known,Not Known,Not Known,Not Known,India,Maharashtra,Dombivili,Satyajit Nagar,Not Known,Not Known,None
+9,7,Rashtriya Lok Jan Bank,None,None,None,0,None,0,0,Not Known,Not Known,Not Known,Not Known,India,Haryana,Manorgarh,Vishesh Bawan,Bank,Not Known,None
+10,8,Ranjana,Female,Right,Mahesh,2,Married,3,1,Vanita,Alive,Not Known,Dead,India,Maharashtra,Nashik,Sinnar Villege,Housewife,Not Known,None
+11,9,Mahesh,Male,Right,Ranjana,2,Married,0,1,Savita,Alive,Not Known,Dead,India,Maharashtra,Nashik,Sinnar Villege,Jobless,Not Known,None
+12,9,Savita,Female,Right,None,1,Widow,0,1,Not Known,Dead,Not Known,Dead,India,Maharashtra,Nashik,Sinnar Villege,Housewife,Not Known,None

@@ -1,0 +1,37 @@
+EvidenceId,CaseId,Type,Whose,Additional,PlaceFound,Basis,ReportId
+1,1,Body,Shrinath Mhapsekar,Nothing,Behind Madhav House,Post Mortem Report,1
+2,1,Body,Sunita,Nothing,Behind Madhav House,Post Mortem Report,2
+3,1,Body,Ganesh,Nothing,Behind Madhav House,Post Mortem Report,3
+4,2,Prepaid Number,Wasim Shekh,9987066260,None,Call Record,4
+5,2,Bicycle,Sanjay Parmar,GJ24M2094,Side Road,Automobile Report,5
+6,3,Last Location,Rita Walecha,Khadawali,None,Call Record,6
+7,3,Last Location,Mukesh Walecha,Pune,None,Call Record,7
+8,3,Car,Sharad,White Maruti Echo;MH04FC5678,Reseller,Purchaser Words,0
+9,3,Blood ,Sharad,Shirt,None,Kadir Words,0
+10,3,Last Location,Sharad,Khadawali,None,Call Record,8
+11,3,Body,Rita Walecha,Nothing,Khadawali,Post Mortem Report,9
+12,3,Blood ,Not Known,Ax,Khadawali,Forensic,10
+13,3,Ax,Not Known,Nothing,None,Forensic,11
+14,4,Injuries,Rita Gomes,Nothing,None,Medical,12
+15,4,Facebook Account,Vikram Sabharwal,Difference Profle Pic,None,None,0
+16,4,Facebook Account,Mazhar Kamran,Blank Profile Pic,None,None,0
+17,4,Facebook Account,Shahid Hussain,Blank Profile Pic,None,None,0
+18,4,Recorded Video,Vikram Sabharwal,At friend's b'day party,None,None,0
+19,4,CCTV Recording,Mickey Mehta,Identity Confirmed,None,None,0
+20,4,Car,Mickey Mehta,WB04E5173,Hawrah,Automobile Report,13
+21,4,Hotel Register Entry,Usman Shaikh,Sanah,None,Hotel Register,0
+22,5,Body,Kavita Shinde,Neck Chock,None,Post Mortem Report,14
+23,6,Rickshaw Number,Munna,MZ02Z484,None,Registration report,15
+24,6,Body,Vijay Jadhav,Nothing,Anupam Nagri,Post Mortem Report,16
+25,6,Injuries,Vijay Jadhav,Women Nails,None,Post Mortem Report,16
+26,7,Last Location,Bhupender Prashar,His House,None,Call Record,17
+27,7,Playwood,Rajan,New,Over Window,None,0
+28,7,Activated Number,Girish Talwar,Nothing,None,Call Record,18
+29,7,Activated Number,Gurveer Saini,Nothing,None,Call Record,19
+30,7,Activated Number,Manveer Kaushik,Nothing,None,Call Record,20
+31,7,Activated Number,Harmeet Kumawat,Nothing,None,Call Record,21
+32,7,Activated Number,Randeep Dahiya,Nothing,None,Call Record,22
+33,7,Ring,Harmeet Kumawat,Tried Sell,Jewellary Shop,None,0
+34,8,Body,Ranjana,Neck Chock,House,Post Mortem Report,23
+35,9,Body,Mahesh,Stabbed,House,Post Mortem Report,24
+36,9,Body,Savita,Stabbed,House,Post Mortem Report,25

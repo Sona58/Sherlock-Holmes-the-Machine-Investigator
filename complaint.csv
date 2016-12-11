@@ -1,0 +1,9 @@
+ComplaintId,CaseId,Year,Name,PoliceStationId,Age,Gender,DominantHand,RelationWithVictim,Occupation,Company
+1,1,2012,Vaibhavi Gorpade,1,20,Female,Right,Friend's Daughter,Housewife,Self
+2,2,2012,Devang Bramhbhatt ,2,0,Male,Right,Father,Not Known,Not Known
+3,3,2011,Mukesh Walecha,3,0,Male,Right,Husband,Businessman,Not Known
+4,4,2012,Rita Gomes,4,0,Female,Right,Victim,Jobless,Not Known
+5,5,2012,Girish Shinde,5,0,Male,Right,Husband,Driver,Aakash Tour & Travels
+6,6,2012,Sarita Jahadav,6,0,Female,Right,Wife,Housewife,Not Known
+7,7,2014,Rashtriya Lok Jan Bak,7,50,None,None,Victim,Bank,Not Known
+8,8,2011,Vanita,8,0,Female,Right,Mother,Housewife,Not Known

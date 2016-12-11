@@ -1,0 +1,6 @@
+MissingId,Name,Gender,DominantHand,Spouse,Children,MaritialStatus,Siblings,RankInSibling,MotherName,MotherStatus,FatherName,FatherStatus,Country,State,City,District,Occupation,Company,Missing From,Status
+1,Ganesh,Male,Right,Sunita,0,Married,0,1,Not Known,Not Known,Not Known,Not Known,India,Maharashtra,Mumbai,Virar,Worker,Madhav Sofa Workshop,0/0/2008,Found Killed
+2,Sunita,Female,Right,Ganesh,0,Married,0,1,Kumud Mhapsekar,Alive,Shrinath Mhapsekar,Alive,India,Maharashtra,Mumbai,Virar,Worker,Madhav Sofa Workshop,0/0/2009,Found Killed
+3,Shrinath Mhapsekar,Male,Right,Kumud Mhapsekar,1,Married,0,1,Not Known,Not Known,Not Known,Not Known,India,Maharashtra,Mumbai,Virar,Worker,Madhav Sofa Workshop,0/0/2010,Found Killed
+4,Sanjay Parmar,Male,Right,None,0,Single,0,1,Not Known,Not Known,Not Known,Not Known,India,Ahmedabad,Bapu Nagar,Not Known,Not Known,Not Known,27/4/2012,Found
+5,Rita Walecha,Female,Right,Mukesh Walecha,2,Married,0,1,Not Known,Alive,Not Known,Not Known,India,Maharashtra,Thane,Ulhas Nagar,Housewife,Not Known,11-Apr,Found Killed
